@@ -36,10 +36,6 @@ int main() {
                 printf("Número de pontos turísticos: "); 
                 scanf("%d", &pontos_turisticos);
 
-                printf("Populacao: ""%i",&populacao);
-                //printf ("Area:   %f",&area);
-                //printf("PIB:   %f",pib);
-                //printf("Numero de pontos turisticos: %d " ,&pontos_turisticos);
-
+            
     return 0;
 }
