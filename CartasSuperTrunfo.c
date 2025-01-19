@@ -36,6 +36,9 @@ int main() {
                 printf("Número de pontos turísticos: "); 
                 scanf("%d", &pontos_turisticos);
 
+
+                printf("%i\n",&populacao);
+
             
     return 0;
 }
